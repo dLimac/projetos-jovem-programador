@@ -9,10 +9,10 @@ Cada projeto está organizado por disciplina/módulo, conforme os conteúdos abo
 ## 🧭 Estrutura do Repositório
 
 ```bash
-📁 logica-programacao/
+📁 C#
 📁 banco-de-dados/
 📁 desenvolvimento-web/
-📁 programacao-orientada-objetos/
+📁 testes-manutenção-sistemas/
 📁 projeto-integrador/
 
 ---
