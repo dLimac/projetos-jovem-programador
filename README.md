@@ -39,8 +39,8 @@ Cada projeto está organizado por disciplina/módulo, conforme os conteúdos abo
 
 > Scripts SQL para criação de tabelas, consultas (DQL), manipulação de dados (DML) e modelagem de dados (MER/DER).
 
-- Modelagem de vendas para papelaria
-- Scripts Oracle e MySQL (DDL, DML, DQL)
+- Modelagem de vendas
+- Scripts Oracle (DDL, DML, DQL)
 - Consultas com junções e subconsultas
 
 ---
