@@ -19,13 +19,19 @@ Cada projeto está organizado por disciplina/módulo, conforme os conteúdos abo
 
 ## 📂 Módulos e Projetos
 
-### 🔹 Lógica de Programação (`/logica-programacao`)
+### 🔹 C# (`/C#`)
 
 > Exercícios e projetos de introdução à lógica computacional com foco em algoritmos, estruturas de decisão e repetição.
 
 - Calculadora simples em C#
 - Conversor de temperaturas
 - Validador de CPF
+
+> Aplicações em C# com uso de classes, encapsulamento, listas e estruturas de dados.
+
+- Sistema de notas de alunos
+- Agenda de contatos
+- Lista de tarefas com marcação de concluído
 
 ---
 
@@ -49,13 +55,14 @@ Cada projeto está organizado por disciplina/módulo, conforme os conteúdos abo
 
 ---
 
-### 🔹 Programação Orientada a Objetos (`/programacao-orientada-objetos`)
+### 🔹 Testes e Manutenção em Sistemas (`/testes-manutenção-sistemas`)
 
-> Aplicações em C# com uso de classes, encapsulamento, listas e estruturas de dados.
+> Projetos e atividades voltados para a verificação da qualidade do software, identificação e correção de erros, além da aplicação de boas práticas para manutenção preventiva e corretiva.
 
-- Sistema de notas de alunos
-- Agenda de contatos
-- Lista de tarefas com marcação de concluído
+- Casos de teste em aplicações C#
+- Testes de usabilidade em páginas HTML/CSS
+- Correção de bugs e otimização de código
+- Documentação de testes e manutenção
 
 ---
 
